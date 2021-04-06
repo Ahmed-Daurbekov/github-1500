@@ -1,0 +1,15 @@
+.red {
+	color: red;
+}
+
+.green {
+	color: green;
+}
+
+.blue {
+	width: 200px;
+	height: 100px;
+	margin: 0 auto;
+	background: greenyellow;
+	color: gold;
+}
